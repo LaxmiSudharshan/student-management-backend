@@ -1,2 +1,2 @@
 npm init -y
-npm install express mysql2 body-parser cors
+npm install express mysql2 dotenv body-parser cors
